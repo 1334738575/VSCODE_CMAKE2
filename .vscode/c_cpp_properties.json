@@ -6,14 +6,14 @@
                 "${workspaceFolder}/**",
                 "${workspaceFolder}/src/cpp/**",
                 "${workspaceFolder}/src/cu/**",
-                "${workspaceFolder}/src/vulkan/**"
+                "${workspaceFolder}/../eigen/install2/include/eigen3/**"
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "D:\\SLAM_LYJ\\mingw64\\bin\\g++.exe",
+            "compilerPath": "C:\\Users\\DELL\\Desktop\\code\\mingw\\w64devkit\\bin\\g++.exe",
             "cStandard": "c17",
             "cppStandard": "gnu++14",
             "intelliSenseMode": "windows-gcc-x64",

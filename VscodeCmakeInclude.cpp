@@ -1,6 +1,8 @@
 #include "VscodeCmakeInclude.h"
 #include "src/cpp/ClassTest.h"
 #include "src/cu/CUDACommon.h"
+#include <fstream>
+
 #include <vector>
 
 void func1(const VscodeCmakeOption &_opt)

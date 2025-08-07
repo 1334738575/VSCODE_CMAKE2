@@ -1,5 +1,10 @@
 {
     "cmake.additionalCompilerSearchDirs": [
-        "D:\\SLAM_LYJ\\mingw64\\bin"
-    ]
+        "C:\\Users\\DELL\\Desktop\\code\\mingw\\w64devkit\\bin"
+    ],
+    "files.associations": {
+        "core": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp"
+    }
 }
